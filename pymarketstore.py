@@ -1,4 +1,6 @@
-## marketstore historical datafeed
+#marketstore historical datafeed
+#not a perfect script, but an example.  make sure to add the line to backtrader/backtrader/feeds/__init__.py
+#from .pymarketstore import *
 
             import backtrader as bt
             from ..utils import date2num
