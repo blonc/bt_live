@@ -28,7 +28,7 @@ bgworkers:
       query_start: "2017-06-18 00:00"
       base_timeframe: "1Min"
       symbols:
-         - ETC
+         - ETH
          - BTC
          - LTC
 #   - module: slait.so
